@@ -1,0 +1,27 @@
+{
+  "name": "node-restapi-example",
+  "version": "1.0.0",
+  "description": "restful api example with nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/viniciosneves/node-restapi-example.git"
+  },
+  "keywords": [
+    "restful",
+    "api",
+    "node"
+  ],
+  "author": "vinny neves",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/viniciosneves/node-restapi-example/issues"
+  },
+  "homepage": "https://github.com/viniciosneves/node-restapi-example#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
