@@ -22,6 +22,7 @@
   },
   "homepage": "https://github.com/viniciosneves/node-restapi-example#readme",
   "dependencies": {
+    "consign": "^0.1.2",
     "express": "^4.14.0"
   }
 }
